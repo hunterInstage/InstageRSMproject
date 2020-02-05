@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+InstageRemotev1/.vs/
+InstageRemotev1/Library/
+InstageRemotev1/Logs/
+InstageRemotev1/obj/
+InstageRemotev1/Temp/
+InstageRemotev1/Assets/Plugins/Agora/Plugins/iOS/
